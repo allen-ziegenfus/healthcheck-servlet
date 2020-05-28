@@ -1,0 +1,3 @@
+Bundle-Name: OSB WWW Healthcheck Servlet
+Bundle-SymbolicName: com.liferay.osb.www.healthcheck.servlet
+Bundle-Version: 1.0.0

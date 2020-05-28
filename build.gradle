@@ -1,0 +1,9 @@
+dependencies {
+	compileOnly group: "com.liferay", name: "com.liferay.petra.string"
+	compileOnly group: "com.liferay", name: "com.liferay.portal.custom.jsp.bag.api"
+	compileOnly group: "com.liferay.portal", name: "com.liferay.portal.kernel"
+	compileOnly group: "javax.servlet", name: "javax.servlet-api"
+	compileOnly group: "org.apache.felix", name: "org.apache.felix.dependencymanager", version: "4.6.0"
+	compileOnly group: "org.osgi", name: "org.osgi.core"
+	compileOnly group: "org.osgi", name: "org.osgi.service.component.annotations"
+}
